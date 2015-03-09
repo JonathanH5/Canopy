@@ -1,4 +1,4 @@
-# KMeans++
+# Canopy
 
 This is an implemenation of the Canopy algorithm.<br>
 The original authors of the algorithm are: https://github.com/TU-Berlin-DIMA/IMPRO-3.SS14 <br>
